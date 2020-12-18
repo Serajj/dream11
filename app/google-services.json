@@ -1,0 +1,254 @@
+{
+  "project_info": {
+    "project_number": "1081135574210",
+    "firebase_url": "https://my-projects-d6a48.firebaseio.com",
+    "project_id": "my-projects-d6a48",
+    "storage_bucket": "my-projects-d6a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:46113d1a53ec071b811f5b",
+        "android_client_info": {
+          "package_name": "com.gyansoft.circle11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:f0dd164164e404ca811f5b",
+        "android_client_info": {
+          "package_name": "com.gyansoft.freshgrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-jvve6u4b6mmup6l9ddl8579k98450dit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyansoft.freshgrocery",
+            "certificate_hash": "3b1d4a0616de5a137b2190e04f34f2374735be84"
+          }
+        },
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:7eaabbcb722bb7a2811f5b",
+        "android_client_info": {
+          "package_name": "com.gyansoft.holala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:52971eddf1fa6db4811f5b",
+        "android_client_info": {
+          "package_name": "com.gyansoft.laravelecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-lh9futfpqv2ufb67n6ih11obr0nk1qna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyansoft.laravelecommerce",
+            "certificate_hash": "3b1d4a0616de5a137b2190e04f34f2374735be84"
+          }
+        },
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:4e6c62b06cd121f4811f5b",
+        "android_client_info": {
+          "package_name": "gyansoft.ecommerce.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-2bk1lu70g7d10e5lj8e45jgmpnnfkrcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gyansoft.ecommerce.app",
+            "certificate_hash": "3b1d4a0616de5a137b2190e04f34f2374735be84"
+          }
+        },
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:ff9fc43c940fe3c6811f5b",
+        "android_client_info": {
+          "package_name": "gyansoft.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-5klg3va50f34k7iesddl6see0g009r3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gyansoft.grocery",
+            "certificate_hash": "3b1d4a0616de5a137b2190e04f34f2374735be84"
+          }
+        },
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081135574210:android:4840185befe1c5cc811f5b",
+        "android_client_info": {
+          "package_name": "gyansoft.milkapp.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081135574210-p9r83b4b1vrnq9s5goi66mh2hebmvmpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gyansoft.milkapp.users",
+            "certificate_hash": "3b1d4a0616de5a137b2190e04f34f2374735be84"
+          }
+        },
+        {
+          "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sym0N4yymKrv8Yj3qI6OhP7a8OhXIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081135574210-82flpf4riqa0na3ldtq7ljbtamoi7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
